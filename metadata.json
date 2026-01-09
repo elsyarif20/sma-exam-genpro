@@ -1,0 +1,5 @@
+{
+  "name": "SMA Exam Generator Pro",
+  "description": "A high-end application for generating SMA (Senior High School) Try Out and School Exams with AI, supporting advanced TKA questions and exporting directly to Microsoft Word.",
+  "requestFramePermissions": []
+}
